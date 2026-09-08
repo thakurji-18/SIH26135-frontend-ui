@@ -1,0 +1,6 @@
+{
+  "name": "Skilling Outcomes Intelligence",
+  "description": "Employment outcome tracking and decision-intelligence platform for monitoring post-training outcomes and skill gaps by THE BUG SLAYERS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
